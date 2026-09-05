@@ -2,7 +2,7 @@
 
 Code and membership tables for:
 
-> Mitra, D. & [Advisor], "Random-Forest classification of open-cluster membership with
+> Mitra, D. & Bisht, D, "Random-Forest classification of open-cluster membership with
 > Gaia DR3: multi-cluster validation and comparison with independent catalogues",
 > submitted to MNRAS (2026).
 
