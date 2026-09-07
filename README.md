@@ -91,7 +91,7 @@ sklearn.ensemble.RandomForestClassifier(
 
 1. Install dependencies: `pip install scikit-learn astropy astroquery numpy pandas
    matplotlib pyarrow gaiadr3_zeropoint`.
-2. Run `NGC752_RF_Extended.ipynb` top to bottom. Gaia cone searches and supplementary
+2. Run `NGC752_RF_Membershippaper_notebook.ipynb` top to bottom. Gaia cone searches and supplementary
    column fetches are cached to parquet in `outputs_extended/` on first run
    (the NGC 6633 field is ~1.5M stars; first downloads take a while).
 3. All tables (CSV) and figures (PNG) used in the paper are written to
