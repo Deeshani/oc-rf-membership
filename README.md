@@ -4,7 +4,7 @@ Code and membership tables for:
 
 > Mitra, D. & Bisht, D, "Random-Forest classification of open-cluster membership with
 > Gaia DR3: multi-cluster validation and comparison with independent catalogues",
-> submitted to MNRAS (2026).
+
 
 The pipeline trains a supervised Random Forest per cluster on the membership labels of
 Cantat-Gaudin et al. (2018, A&A 618, A93; "CG18") and validates the classifications
